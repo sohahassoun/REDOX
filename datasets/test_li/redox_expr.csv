@@ -1,0 +1,15 @@
+﻿,LHS Id,LHS Compound,LHS Structure,RHS Compound,RHS Structure,Experimental Redox
+1,"1,4-benzoquinone",O=C1C=CC(=O)C=C1,,O[C]1C=CC(=O)C=C1,,-900.5
+2,juglone,Oc1cccc2C(=O)C=CC(=O)c12,,Oc1cccc2[C](O)C=CC(=O)c12,,-911.5
+3,menadione,CC1=CC(=O)c2ccccc2C1=O,,CC1=C[C](O)c2ccccc2C1=O,,-1157.5
+4,"1,4-naphthoquinone",O=C1C=CC(=O)c2ccccc12,,O[C]1C=CC(=O)c2ccccc12,,-1078
+5,anthraquinone,O=C1c2ccccc2C(=O)c3ccccc13,,O[C]1c2ccccc2C(=O)c3ccccc13,,-1310
+6,"Tetramethyl-1,4-benzoquinone",CC1=C(C)C(=O)C(=C(C)C1=O)C,,CC1=C(C)[C](O)C(=C(C)C1=O)C,,-1230
+7,chimaphilin,Cc1ccc2C(=O)C=C(C)C(=O)c2c1,,Cc1ccc2[C](O)C=C(C)C(=O)c2c1,,-1160
+8,"9,10-Phenanthrenequinone",O=C1C(=O)c2ccccc2c3ccccc13,,O=C1[C](O)c2ccccc2c3ccccc13,,-1040
+9,"1,10-Phenanthroline-5,6-dione",O=C1C(=O)c2cccnc2c3ncccc13,,O=C1[C](O)c2cccnc2c3ncccc13,,-866
+10,Dichloronaphthoquinone,ClC1=C(Cl)C(=O)c2ccccc2C1=O,,ClC1=C(Cl)[C](O)c2ccccc2C1=O,,-802
+11,Dibromonaphthoquinone,BrC1=C(Br)C(=O)c2ccccc2C1=O,,BrC1=C(Br)[C](O)c2ccccc2C1=O,,-798
+12,Tetrachloro-p-benzoquinone,ClC1=C(Cl)C(=O)C(=C(Cl)C1=O)Cl,,ClC1=C(Cl)[C](O)C(=C(Cl)C1=O)Cl,,-360
+13,"2,3-dichloro-5,8-dimethoxy-1,4-naphthoquinone",COc1ccc(OC)c2C(=O)C(=C(Cl)C(=O)c12)Cl,,COc1ccc(OC)c2[C](O)C(=C(Cl)C(=O)c12)Cl,,-612.5
+14,"2,3-Dichloro-5,6-dicyano-1,4-benzoquinone",C(#N)C1=C(C(=O)C(=C(C1=O)Cl)Cl)C#N,,C(#N)C1=C([C](O)C(=C(C1=O)Cl)Cl)C#N,,140

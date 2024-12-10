@@ -1,0 +1,176 @@
+﻿LHS Id,LHS Compound,LHS Structure,Comments,RHS Id,RHS Compound Ionized,RHS Structure Ionized,RHS Compound,RHS Structure,LHS Charge,RHS Charge,LHS Unpaired Electrons,RHS Unpaired Electrons,Experimental Redox,Electrode Shift
+1,c1ccc2ccccc2c1,,,1_reduced,c1[C][C-]c2ccccc2c1,,c1[C]Cc2ccccc2c1,,1,0,1,0,1.64,4.422
+10,CC=Cc1ccc2c(c1)OCO2,,Reduction will take place on the pi bond on the side. Oxygens will not take the radical. Preserving the aromatic ring is important,10_reduced,C[C][C-]c1ccc2c(c1)OCO2,,C[C]Cc1ccc2c(c1)OCO2,,1,0,1,0,1.15,4.422
+100,c1ccc2occc2c1,,,100_reduced,c1ccc2o[C][C-]c2c1,,c1ccc2o[C]Cc2c1,,1,0,1,0,1.74,4.422
+101,c1ccoc1,,,101_reduced,c1[C][C-]oc1,,c1[C]Coc1,,1,0,1,0,1.94,4.422
+102,c1ccc2ncccc2c1,,Same as oxygens. Pi bond on nitrogen would break and negative charge on N,102_reduced,c1ccc2[N-][C]ccc2c1,,c1ccc2N[C]ccc2c1,,1,0,1,0,2.14,4.422
+103,c1cn[nH]c1,,Pi bond with N would house the negative bond,103_reduced,c1[C][N-][nH]c1,,c1[C]N[nH]c1,,1,0,1,0,2.21,4.422
+106,Clc1ccc(I)cc1,,Have to break aromaticity. One of the pi bonds would break. Double bond with I should be the one,106_reduced,Clc1c[C][C-](I)cc1,,Clc1c[C]C(I)cc1,,0,-1,0,1,-1.94,4.422
+107,Brc1ccc(I)cc1,,,107_reduced,Brc1c[C][C-](I)cc1,,Brc1c[C]C(I)cc1,,0,-1,0,1,-1.95,4.422
+11,CC=Cc1ccc(OC)cc1,,,11_reduced,C[C-][C]c1ccc(OC)cc1,,CC[C]c1ccc(OC)cc1,,1,0,1,0,1.24,4.422
+110,O=C(CBr)c1ccccc1,,Negative charge on O and double bond gets broken,110_reduced,[O-][C](CBr)c1ccccc1,,O[C](CBr)c1ccccc1,,0,-1,0,1,-1.46,4.422
+111,O=[N+]([O-])c1ccc(F)cc1,,The NO2 actually pulls electron density out of the aromatic ring. The F will house a negative charge. Negative charge on F seems to break valence!,111_reduced,O=[N+]([O-])[C-]1[C]cc(F)cc1,,O=[N+]([O-])C1[C]cc(F)cc1,,0,-1,0,1,-1.23,4.422
+112,CCOC(=O)CBr,,double bonded O,112_reduced,CCO[C]([O-])CBr,,CCO[C](O)CBr,,0,-1,0,1,-1.06,4.422
+113,CCOC(=O)C(Br)C(=O)OCC,,,113_reduced,CCOC(=O)C(Br)[C]([O-])OCC,,CCOC(=O)C(Br)[C](O)OCC,,0,-1,0,1,-0.62,4.422
+114,Brc1ccc(I)cc1,,,114_reduced,Brc1c[C][C-](I)cc1,,Brc1c[C]C(I)cc1,,1,0,1,0,2.1,4.422
+115,Clc1ccc(I)cc1,,,115_reduced,Clc1c[C][C-](I)cc1,,Clc1c[C]C(I)cc1,,1,0,1,0,2.15,4.422
+116,Ic1ccccc1,,,116_reduced,I[C-]1cccc[C]1,,IC1cccc[C]1,,1,0,1,0,2.17,4.422
+117,Brc1ccccc1,,,117_reduced,Br[C-]1cccc[C]1,,BrC1cccc[C]1,,1,0,1,0,2.5,4.422
+118,Clc1ccccc1,,,118_reduced,Cl[C-]1cccc[C]1,,ClC1cccc[C]1,,1,0,1,0,2.61,4.422
+119,O=CC1CCCCC1,,negative charge on O but high energy compound,119_reduced,[O-][C]C1CCCCC1,,O[C]C1CCCCC1,,0,-1,0,1,-2.28,4.422
+12,CC=Cc1ccc(C=CC)cc1,,,12_reduced,C[C][C-]c1ccc(C=CC)cc1,,C[C]Cc1ccc(C=CC)cc1,,1,0,1,0,1.43,4.422
+120,CC(C)CC=O,,,120_reduced,CC(C)C[C][O-],,CC(C)C[C]O,,0,-1,0,1,-2.24,4.422
+121,Cc1ccccc1C=O,,,121_reduced,Cc1ccccc1[C][O-],,Cc1ccccc1[C]O,,0,-1,0,1,-1.94,4.422
+122,O=Cc1ccccc1,,,122_reduced,[O-][C]c1ccccc1,,O[C]c1ccccc1,,0,-1,0,1,-1.93,4.422
+123,O=Cc1ccc(Cl)cc1,,reduction would still happen on the O. We might need to break aromaticity for some of these,123_reduced,[O-][C]c1ccc(Cl)cc1,,O[C]c1ccc(Cl)cc1,,0,-1,0,1,-1.85,4.422
+124,O=Cc1ccc2ccccc2c1,,,124_reduced,[O-][C]c1ccc2ccccc2c1,,O[C]c1ccc2ccccc2c1,,0,-1,0,1,-1.73,4.422
+125,O=Cc1ccc(-c2ccccc2)cc1,,,125_reduced,[O-][C]c1ccc(-c2ccccc2)cc1,,O[C]c1ccc(-c2ccccc2)cc1,,0,-1,0,1,-1.72,4.422
+126,O=Cc1ccc(C(F)(F)F)cc1,,The C inside the F means that the F cannot take charge. ,126_reduced,[O-][C]c1ccc(C(F)(F)F)cc1,,O[C]c1ccc(C(F)(F)F)cc1,,0,-1,0,1,-1.66,4.422
+127,N#Cc1ccc(C=O)cc1,,The cyano group is a strong electron withdrawing group. So does the O get reduced here?,127_reduced,N#Cc1ccc([C][O-])cc1,,N#Cc1ccc([C]O)cc1,,0,-1,0,1,-1.42,4.422
+128,O=Cc1ccc([N+](=O)[O-])cc1,,,128_reduced,O=Cc1c[C][C-]([N+](=O)[O-])cc1,,O=Cc1c[C]C([N+](=O)[O-])cc1,,0,-1,0,1,-0.86,4.422
+129,O=Cc1ccc(O)cc1,,,129_reduced,[O-][C]c1ccc(O)cc1,,O[C]c1ccc(O)cc1,,1,0,1,0,1.95,4.422
+13,CC=Cc1ccsc1,,The reduction would happen on the pi bond on the right. The negative charge will be on the carbon closer to the ring,13_reduced,C[C][C-]c1ccsc1,,C[C]Cc1ccsc1,,1,0,1,0,1.49,4.422
+130,COc1ccc(C=O)cc1,,,130_reduced,COc1ccc([C][O-])cc1,,COc1ccc([C]O)cc1,,1,0,1,0,2.06,4.422
+131,Cc1ccc(N=Cc2ccccc2)cc1,,"electron goes on the N, double bond gets broken",131_reduced,Cc1ccc([N-][C]c2ccccc2)cc1,,Cc1ccc(N[C]c2ccccc2)cc1,,0,-1,0,1,-2.01,4.422
+132,C(=Nc1ccccc1)c1ccccc1,,,132_reduced,[C]([N-]c1ccccc1)c1ccccc1,,[C](Nc1ccccc1)c1ccccc1,,0,-1,0,1,-1.91,4.422
+133,Fc1ccc(N=Cc2ccccc2)cc1,,"The groups on the side makes it easy or difficult to reduce, but the reductrion happens on the N",133_reduced,Fc1ccc([N-][C]c2ccccc2)cc1,,Fc1ccc(N[C]c2ccccc2)cc1,,0,-1,0,1,-1.9,4.422
+134,COc1cccc(N=Cc2ccccc2)c1,,,134_reduced,COc1cccc([N-][C]c2ccccc2)c1,,COc1cccc(N[C]c2ccccc2)c1,,0,-1,0,1,-1.88,4.422
+135,C(=NN(c1ccccc1)c1ccccc1)c1ccccc1,,This type of structure takes less energy to be reduced. ,135_reduced,[C]([N-]N(c1ccccc1)c1ccccc1)c1ccccc1,,[C](NN(c1ccccc1)c1ccccc1)c1ccccc1,,1,0,1,0,0.97,4.422
+136,Cc1ccc(N=Cc2ccccc2)cc1,,,136_reduced,Cc1ccc([N-][C]c2ccccc2)cc1,,Cc1ccc(N[C]c2ccccc2)cc1,,1,0,1,0,1.5,4.422
+137,COc1cccc(N=Cc2ccccc2)c1,,,137_reduced,COc1cccc([N-][C]c2ccccc2)c1,,COc1cccc(N[C]c2ccccc2)c1,,1,0,1,0,1.52,4.422
+138,Fc1ccc(N=Cc2ccccc2)cc1,,,138_reduced,Fc1ccc([N-][C]c2ccccc2)cc1,,Fc1ccc(N[C]c2ccccc2)cc1,,1,0,1,0,1.64,4.422
+139,C(=Nc1ccccc1)c1ccccc1,,,139_reduced,[C]([N-]c1ccccc1)c1ccccc1,,[C](Nc1ccccc1)c1ccccc1,,1,0,1,0,1.67,4.422
+14,CC=Cc1ccccc1OC,,,14_reduced,C[C][C-]c1ccccc1OC,,C[C]Cc1ccccc1OC,,1,0,1,0,1.48,4.422
+140,ON=Cc1ccccc1,,Despite the OH group I am still assuming the N would get the electron and the double bond would get broken,140_reduced,O[N-][C]c1ccccc1,,ON[C]c1ccccc1,,1,0,1,0,1.86,4.422
+141,O=C1CCCCC1,,,141_reduced,[O-][C]1CCCCC1,,O[C]1CCCCC1,,0,-1,0,1,-2.33,4.422
+142,CC(=O)c1ccc(C)cc1,,,142_reduced,C[C]([O-])c1ccc(C)cc1,,C[C](O)c1ccc(C)cc1,,0,-1,0,1,-2.16,4.422
+143,CC(=O)c1ccc(F)cc1,,,143_reduced,C[C]([O-])c1ccc(F)cc1,,C[C](O)c1ccc(F)cc1,,0,-1,0,1,-2.13,4.422
+144,CC(=O)c1ccccc1,,,144_reduced,C[C]([O-])c1ccccc1,,C[C](O)c1ccccc1,,0,-1,0,1,-2.11,4.422
+145,CC(=O)c1ccc(Cl)cc1,,,145_reduced,C[C]([O-])c1ccc(Cl)cc1,,C[C](O)c1ccc(Cl)cc1,,0,-1,0,1,-1.91,4.422
+146,CC(=O)c1ccc(-c2ccccc2)cc1,,,146_reduced,C[C]([O-])c1ccc(-c2ccccc2)cc1,,C[C](O)c1ccc(-c2ccccc2)cc1,,0,-1,0,1,-1.91,4.422
+147,CC(=O)c1ccc(Br)cc1,,,147_reduced,C[C]([O-])c1ccc(Br)cc1,,C[C](O)c1ccc(Br)cc1,,0,-1,0,1,-1.89,4.422
+148,CC(=O)c1ccc(I)cc1,,,148_reduced,C[C]([O-])c1ccc(I)cc1,,C[C](O)c1ccc(I)cc1,,0,-1,0,1,-1.85,4.422
+149,CC(=O)c1ccc(C(F)(F)F)cc1,,,149_reduced,C[C]([O-])c1ccc(C(F)(F)F)cc1,,C[C](O)c1ccc(C(F)(F)F)cc1,,0,-1,0,1,-1.74,4.422
+15,C=C(c1ccccc1)c1ccccc1,,Reduction occurs on the middle double bond. Radical on the outside position,15_reduced,[C][C-](c1ccccc1)c1ccccc1,,[C]C(c1ccccc1)c1ccccc1,,1,0,1,0,1.54,4.422
+150,CC(=O)c1ccc([N+](=O)[O-])cc1,,,150_reduced,C[C]([O-])c1ccc([N+](=O)[O-])cc1,,C[C](O)c1ccc([N+](=O)[O-])cc1,,0,-1,0,1,-0.93,4.422
+151,CC(=O)C1CCCCC1,,,151_reduced,C[C]([O-])C1CCCCC1,,C[C](O)C1CCCCC1,,1,0,1,0,2.66,4.422
+155,CN1CCCN(C)C1=O,,These are amide groups. N can donate into a double bonded C and O. This makes reduced form of this difficult to predict. Need to run DFT for this?,155_reduced,CN1CCCN(C)[C]1[O-],,CN1CCCN(C)[C]1O,,1,0,1,0,1.55,4.422
+156,CN(C)C=O,,,156_reduced,CN(C)[C][O-],,CN(C)[C]O,,1,0,1,0,2.26,4.422
+157,O=C1CCCCN1,,,157_reduced,[O-][C]1CCCCN1,,O[C]1CCCCN1,,1,0,1,0,2.58,4.422
+158,N#Cc1ccccc1,,,158_reduced,[N-]=[C]c1ccccc1,,N=[C]c1ccccc1,,0,-1,0,1,-2.43,4.422
+159,COC(=O)c1ccccc1,,,159_reduced,CO[C]([O-])c1ccccc1,,CO[C](O)c1ccccc1,,0,-1,0,1,-2.34,4.422
+16,c1ccccc1,,,16_reduced,c1ccc[C][C-]1,,c1ccc[C]C1,,1,0,1,0,1.54,4.422
+160,O=C(O)c1ccccc1,,,160_reduced,[O-][C](O)c1ccccc1,,O[C](O)c1ccccc1,,0,-1,0,1,-2.29,4.422
+161,O=C1CCCO1,,,161_reduced,[O-][C]1CCCO1,,O[C]1CCCO1,,0,-1,0,1,-2.13,4.422
+162,N#Cc1cccc(C#N)c1,,Reduce one of the C-N bonds. Preserve aromaticity,162_reduced,N#Cc1cccc([C]=[N-])c1,,N#Cc1cccc([C]=N)c1,,0,-1,0,1,-1.9,4.422
+163,COC(=O)c1ccc(C#N)cc1,,,163_reduced,COC(=O)c1ccc([C]=[N-])cc1,Picture,COC(=O)c1ccc([C]=N)cc1,Picture,0,-1,0,1,-1.72,4.422
+164,N#Cc1ccccc1C#N,,,164_reduced,N#Cc1ccccc1[C]=[N-],,N#Cc1ccccc1[C]=N,,0,-1,0,1,-1.7,4.422
+165,N#Cc1ccc(C#N)cc1,,,165_reduced,N#Cc1ccc([C]=[N-])cc1,,N#Cc1ccc([C]=N)cc1,,0,-1,0,1,-1.64,4.422
+166,Cc1cc(C)c(S(=O)(=O)Cl)c(C)c1,,,166_reduced,Cc1cc(C)c([S](=O)([O-])Cl)c(C)c1,,Cc1cc(C)c([S](=O)(O)Cl)c(C)c1,,0,-1,0,1,-1.45,4.422
+167,Cc1ccc(S(=O)(=O)Cl)cc1,,,167_reduced,Cc1ccc([S](=O)([O-])Cl)cc1,,Cc1ccc([S](=O)(O)Cl)cc1,,0,-1,0,1,-1.37,4.422
+168,O=C1OC(=O)c2ccccc21,,,168_reduced,O=C1O[C]([O-])c2ccccc21,,O=C1O[C](O)c2ccccc21,,0,-1,0,1,-1.34,4.422
+169,O=C(Cl)c1ccccc1,,,169_reduced,[O-][C](Cl)c1ccccc1,,O[C](Cl)c1ccccc1,,0,-1,0,1,-1.2,4.422
+17,CC=Cc1ccc(C)cc1,,,17_reduced,C[C-][C]c1ccc(C)cc1,,CC[C]c1ccc(C)cc1,,1,0,1,0,1.59,4.422
+170,O=C(OC(=O)c1ccccc1)c1ccccc1,,,170_reduced,O=C(O[C]([O-])c1ccccc1)c1ccccc1,,O=C(O[C](O)c1ccccc1)c1ccccc1,,0,-1,0,1,-1.01,4.422
+171,O=C1C=CC(=O)O1,,,171_reduced,O=C1C=C[C]([O-])O1,,O=C1C=C[C](O)O1,,0,-1,0,1,-0.98,4.422
+172,O=[N+]([O-])c1ccccc1S(=O)(=O)Cl,,,172_reduced,O=[N+]([O-])c1ccccc1[S](=O)([O-])Cl,,O=[N+]([O-])c1ccccc1[S](=O)(O)Cl,,0,-1,0,1,-0.51,4.422
+173,O=S(=O)(Cl)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,,,173_reduced,O=[S]([O-])(Cl)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,,O=[S](O)(Cl)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,,0,-1,0,1,-0.45,4.422
+174,O=C(OC(=O)C(F)(F)F)C(F)(F)F,,,174_reduced,O=[S]([O-])(Cl)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,,O=[S](O)(Cl)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,,0,-1,0,1,-0.2,4.422
+179,O=C1CCC(=O)N1Cl,,Negative charge on one of the carbons??,179_reduced,O=C1CC[C]([O-])N1Cl,,O=C1CC[C](O)N1Cl,,0,-1,0,1,-0.27,4.422
+18,CC=Cc1cccc(OC)c1,,,18_reduced,C[C-][C]c1cccc(OC)c1,,CC[C]c1cccc(OC)c1,,1,0,1,0,1.6,4.422
+181,O=C(O)c1ccccc1-c1c2cc(Br)c(=O)c(Br)c-2oc2c(Br)c(O)c(Br)cc12,,,181_reduced,O=C(O)c1ccccc1-c1c2cc(Br)[C]([O-])c(Br)c-2oc2c(Br)c(O)c(Br)cc12,,O=C(O)c1ccccc1-c1c2cc(Br)[C](O)c(Br)c-2oc2c(Br)c(O)c(Br)cc12,,0,-1,0,1,-1.1,4.422
+186,c1ccc2cc3ccccc3cc2c1,,,186_reduced,c1ccc2[C-][C]3ccccc3cc2c1,,c1ccc2C[C]3ccccc3cc2c1,,0,-1,0,1,-1.92,4.1888
+187,c1ccc(N=Nc2ccccc2)cc1,,,187_reduced,c1ccc([N][N-]c2ccccc2)cc1,,c1ccc([N]Nc2ccccc2)cc1,,0,-1,0,1,-1.36,4.1888
+188,O=C(c1ccccc1)c1ccccc1,,,188_reduced,[O-][C](c1ccccc1)c1ccccc1,,O[C](c1ccccc1)c1ccccc1,,0,-1,0,1,-1.88,4.1888
+189,O=[N+]([O-])c1ccccc1,,,189_reduced,O=[N+]([O-])c1c[C][C-]cc1,,O=[N+]([O-])c1c[C]Ccc1,,0,-1,0,1,-1.15,4.1888
+19,C1=C(c2ccccc2)CCCC1,,double bond on the left side ring,19_reduced,[C-]1[C](c2ccccc2)CCCC1,,C1[C](c2ccccc2)CCCC1,,1,0,1,0,1.64,4.422
+190,N#CC(C#N)=c1ccc(=C(C#N)C#N)cc1,,,190_reduced,[N-]=[C]C(C#N)=c1ccc(=C(C#N)C#N)cc1,,N=[C]C(C#N)=c1ccc(=C(C#N)C#N)cc1,,0,-1,0,1,0.13,4.1888
+191,N#CC(C#N)=c1ccc(=C(C#N)C#N)cc1,,,191_reduced,[N-]=[C]C(C#N)=c1ccc(=C(C#N)C#N)cc1,,N=[C]C(C#N)=c1ccc(=C(C#N)C#N)cc1,,-1,-2,0,1,-0.29,4.1888
+192,C1=CSC(=C2SC=CS2)S1,,,192_reduced,C1=CS[C]([C-]2SC=CS2)S1,,C1=CS[C](C2SC=CS2)S1,,2,1,0,1,0.66,4.1888
+193,C1=CSC(=C2SC=CS2)S1,,,193_reduced,C1=CS[C]([C-]2SC=CS2)S1,,C1=CS[C](C2SC=CS2)S1,,1,0,1,0,0.3,4.1888
+2,C#Cc1ccc(OC)cc1,,,2_reduced,[C-]=[C]c1ccc(OC)cc1,,C=[C]c1ccc(OC)cc1,,1,0,1,0,1.65,4.422
+20,CC=Cc1ccccc1C=CC,,,20_reduced,C[C-][C]c1ccccc1C=CC,,CC[C]c1ccccc1C=CC,,1,0,1,0,1.64,4.422
+21,CC=Cc1ccc(C(C)(C)C)cc1,,,21_reduced,C[C-][C]c1ccc(C(C)(C)C)cc1,,CC[C]c1ccc(C(C)(C)C)cc1,,1,0,1,0,1.65,4.422
+22,CC=Cc1cccc(C=CC)c1,,,22_reduced,C[C-][C]c1cccc(C=CC)c1,,CC[C]c1cccc(C=CC)c1,,1,0,1,0,1.66,4.422
+23,C1=Cc2ccccc2C1,,,23_reduced,[C]1[C-]c2ccccc2C1,,[C]1Cc2ccccc2C1,,1,0,1,0,1.66,4.422
+24,CC=Cc1ccccc1C,,,24_reduced,C[C-][C]c1ccccc1C,,CC[C]c1ccccc1C,,1,0,1,0,1.7,4.422
+25,CC=Cc1ccc(F)cc1,,,25_reduced,C[C-][C]c1ccc(F)cc1,,CC[C]c1ccc(F)cc1,,1,0,1,0,1.71,4.422
+26,CC=Cc1cccc(C)c1,,,26_reduced,C[C-][C]c1cccc(C)c1,,CC[C]c1cccc(C)c1,,1,0,1,0,1.73,4.422
+27,CC=Cc1ccc(Cl)cc1,,,27_reduced,C[C-][C]c1ccc(Cl)cc1,,CC[C]c1ccc(Cl)cc1,,1,0,1,0,1.73,4.422
+28,CC=Cc1ccccc1,,,28_reduced,C[C-][C]c1ccccc1,,CC[C]c1ccccc1,,1,0,1,0,1.74,4.422
+29,CC=Cc1ccc(Br)cc1,,,29_reduced,C[C-][C]c1ccc(Br)cc1,,CC[C]c1ccc(Br)cc1,,1,0,1,0,1.75,4.422
+3,C(#Cc1ccccc1)c1ccccc1,,,3_reduced,[C](=[C-]c1ccccc1)c1ccccc1,,[C](=Cc1ccccc1)c1ccccc1,,1,0,1,0,1.84,4.422
+30,CC1=CCCC1,,,30_reduced,C[C]1[C-]CCC1,,C[C]1CCCC1,,1,0,1,0,1.75,4.422
+31,CC=Cc1cccc(Cl)c1,,,31_reduced,C[C-][C]c1cccc(Cl)c1,,CC[C]c1cccc(Cl)c1,,1,0,1,0,1.89,4.422
+32,C=C(C)c1ccccc1,,,32_reduced,[C-][C](C)c1ccccc1,,C[C](C)c1ccccc1,,1,0,1,0,1.91,4.422
+33,CC=Cc1cccc(Br)c1,,,33_reduced,C[C-][C]c1cccc(Br)c1,,CC[C]c1cccc(Br)c1,,1,0,1,0,1.92,4.422
+34,CC=Cc1ccc(C(=O)OC)cc1,,,34_reduced,C[C-][C]c1ccc(C(=O)OC)cc1,,CC[C]c1ccc(C(=O)OC)cc1,,1,0,1,0,1.94,4.422
+35,CC=Cc1ccccc1Cl,,,35_reduced,C[C-][C]c1ccccc1Cl,,CC[C]c1ccccc1Cl,,1,0,1,0,1.94,4.422
+36,CC1=CCCCC1,,,36_reduced,C[C]1[C-]CCCC1,,C[C]1CCCCC1,,1,0,1,0,1.94,4.422
+37,C=Cc1ccccc1,,,37_reduced,[C-][C]c1ccccc1,,C[C]c1ccccc1,,1,0,1,0,1.97,4.422
+38,C=C(C)C=C(C)C,,,38_reduced,[C-][C](C)C=C(C)C,,C[C](C)C=C(C)C,,1,0,1,0,1.98,4.422
+39,CC=C(C)C,,,39_reduced,C[C-][C](C)C,,CC[C](C)C,,1,0,1,0,1.98,4.422
+4,Cc1cc(C)cc(C)c1,,,4_reduced,Cc1cc(C)[C][C-](C)c1,,Cc1cc(C)[C]C(C)c1,,1,0,1,0,2.07,4.422
+40,CC(C)=CCO,,,40_reduced,C[C][C-]CCO,,C[C]CCCO,,1,0,1,0,2.1,4.422
+41,C1=CC2CCC1C2,,,41_reduced,[C-]1[C]C2CCC1C2,,C1[C]C2CCC1C2,,1,0,1,0,2.22,4.422
+42,C1=CCCC1,,,42_reduced,[C]1[C-]CCC1,,[C]1CCCC1,,1,0,1,0,2.32,4.422
+43,C1=CCCCC1,,,43_reduced,[C]1[C-]CCCC1,,[C]1CCCCC1,,1,0,1,0,2.37,4.422
+44,C=C(C)CCC,,,44_reduced,[C-][C](C)CCC,,C[C](C)CCC,,1,0,1,0,2.5,4.422
+45,Oc1ccc(O)cc1,,,45_reduced,Oc1ccc(O)[C][C-]1,,Oc1ccc(O)[C]C1,,1,0,1,0,1.14,4.422
+46,COc1ccc(O)cc1,,,46_reduced,COc1ccc(O)[C][C-]1,,COc1ccc(O)[C]C1,,1,0,1,0,1.17,4.422
+47,Cc1cc(C)c(O)c(C)c1,,,47_reduced,C[C]1[C-]c(C)c(O)c(C)c1,,C[C]1Cc(C)c(O)c(C)c1,,1,0,1,0,1.35,4.422
+48,Oc1ccc2ccccc2c1,,,48_reduced,Oc1ccc2cc[C-][C]c2c1,,Oc1ccc2ccC[C]c2c1,,1,0,1,0,1.4,4.422
+49,COc1ccccc1O,,,49_reduced,COc1c[C][C-]cc1O,,COc1c[C]Ccc1O,,1,0,1,0,1.41,4.422
+5,Cc1cccc(C)c1,,,5_reduced,Cc1c[C][C-]c(C)c1,,Cc1c[C]Cc(C)c1,,1,0,1,0,2.22,4.422
+50,Cc1ccc(O)cc1C,,,50_reduced,Cc1ccc(O)[C][C-]1C,,Cc1ccc(O)[C]C1C,,1,0,1,0,1.43,4.422
+51,Oc1ccccc1,,,51_reduced,Oc1c[C][C-]cc1,,Oc1c[C]Ccc1,,1,0,1,0,1.63,4.422
+52,Oc1ccc(Br)cc1,,,52_reduced,Oc1ccc(Br)[C][C-]1,,Oc1ccc(Br)[C]C1,,1,0,1,0,1.69,4.422
+53,N#Cc1ccc(O)cc1,,,53_reduced,[N-]=[C]c1ccc(O)cc1,,N=[C]c1ccc(O)cc1,,1,0,1,0,2.08,4.422
+54,COc1ccc(OC)cc1,,,54_reduced,COc1ccc(OC)[C][C-]1,,COc1ccc(OC)[C]C1,,1,0,1,0,1.3,4.422
+55,COc1ccc2ccccc2c1,,,55_reduced,COc1ccc2[C][C-]ccc2c1,,COc1ccc2[C]Cccc2c1,,1,0,1,0,1.32,4.422
+56,COc1ccccc1OC,,,56_reduced,COc1c[C][C-]cc1OC,,COc1c[C]Ccc1OC,,1,0,1,0,1.43,4.422
+57,CC(C)Oc1cccc(OC(C)C)c1,,,57_reduced,CC(C)Oc1c[C][C-]c(OC(C)C)c1,,CC(C)Oc1c[C]Cc(OC(C)C)c1,,1,0,1,0,1.47,4.422
+58,COc1cccc(OC)c1,,,58_reduced,COc1c[C][C-]c(OC)c1,,COc1c[C]Cc(OC)c1,,1,0,1,0,1.5,4.422
+59,C1=COCCC1,,,59_reduced,[C]1[C-]OCCC1,,[C]1COCCC1,,1,0,1,0,1.51,4.422
+6,Cc1ccccc1C,,,6_reduced,Cc1c[C][C-]cc1C,,Cc1c[C]Ccc1C,,1,0,1,0,2.22,4.422
+60,COc1ccccc1,,,60_reduced,COc1c[C][C-]cc1,,COc1c[C]Ccc1,,1,0,1,0,1.81,4.422
+61,c1ccc(Oc2ccccc2)cc1,,,61_reduced,c1ccc(Oc2cc[C][C-]c2)cc1,,c1ccc(Oc2cc[C]Cc2)cc1,,1,0,1,0,1.88,4.422
+63,C1=C(N2CCCC2)CCCC1,,,63_reduced,[C]1[C-](N2CCCC2)CCCC1,,[C]1C(N2CCCC2)CCCC1,,1,0,1,0,0.32,4.422
+64,Nc1ccccc1N,,,64_reduced,Nc1c[C][C-]cc1N,,Nc1c[C]Ccc1N,,1,0,1,0,0.48,4.422
+65,C1=C(N2CCOCC2)CCCC1,,,65_reduced,[C]1[C-](N2CCOCC2)CCCC1,,[C]1C(N2CCOCC2)CCCC1,,1,0,1,0,0.54,4.422
+66,CN(C)c1ccccc1,,,66_reduced,CN(C)c1c[C][C-]cc1,,CN(C)c1c[C]Ccc1,,1,0,1,0,0.74,4.422
+67,Cc1ccc(N)cc1,,,67_reduced,Cc1ccc(N)[C][C-]1,,Cc1ccc(N)[C]C1,,1,0,1,0,0.81,4.422
+69,CC(C)c1cccc(C(C)C)c1N,,,69_reduced,CC(C)c1[C][C-]cc(C(C)C)c1N,,CC(C)c1[C]Ccc(C(C)C)c1N,,1,0,1,0,0.84,4.422
+7,C#Cc1ccccc1,,,7_reduced,[C-]=[C]c1ccccc1,,C=[C]c1ccccc1,,1,0,1,0,2.27,4.422
+70,COc1cccc(N)c1,,,70_reduced,COc1c[C][C-]c(N)c1,,COc1c[C]Cc(N)c1,,1,0,1,0,0.86,4.422
+71,c1ccc(N2CCOCC2)cc1,,,71_reduced,c1c[C-][C](N2CCOCC2)cc1,,c1cC[C](N2CCOCC2)cc1,,1,0,1,0,0.88,4.422
+72,C1CCNC1,,,72_reduced,C1C[C][N-]C1,,C1C[C]NC1,,1,0,1,0,0.89,4.422
+73,c1ccc(Nc2ccccc2)cc1,,,73_reduced,c1ccc(Nc2cc[C][C-]c2)cc1,,c1ccc(Nc2cc[C]Cc2)cc1,,1,0,1,0,0.92,4.422
+74,C1CCNCC1,,,74_reduced,C1C[C][N-]CC1,,C1C[C]NCC1,,1,0,1,0,0.94,4.422
+75,Nc1ccccc1,,,75_reduced,Nc1c[C][C-]cc1,,Nc1c[C]Ccc1,,1,0,1,0,0.95,4.422
+76,CC(C)NC(C)C,,,76_reduced,CC(C)[N-][C](C)C,,CC(C)N[C](C)C,,1,0,1,0,1.09,4.422
+77,C1CCC2=NCCCN2CC1,,,77_reduced,C1CC[C]2[N-]CCCN2CC1,,C1CC[C]2NCCCN2CC1,,1,0,1,0,1.28,4.422
+78,COc1ccc(S)cc1,,,78_reduced,COc1ccc(S)[C][C-]1,,COc1ccc(S)[C]C1,,1,0,1,0,1.15,4.422
+79,Sc1ccc(S)cc1,,,79_reduced,Sc1ccc(S)[C][C-]1,,Sc1ccc(S)[C]C1,,1,0,1,0,1.16,4.422
+8,Cc1ccccc1,,,8_reduced,Cc1c[C][C-]cc1,,Cc1c[C]Ccc1,,1,0,1,0,2.36,4.422
+80,COc1ccc(SSc2ccc(OC)cc2)cc1,,,80_reduced,COc1c[C][C-](SSc2ccc(OC)cc2)cc1,,COc1c[C]C(SSc2ccc(OC)cc2)cc1,,1,0,1,0,1.28,4.422
+81,Sc1ccc2ccccc2c1,,,81_reduced,Sc1ccc2cc[C][C-]c2c1,,Sc1ccc2cc[C]Cc2c1,,1,0,1,0,1.33,4.422
+82,Cc1cccc(C)c1S,,,82_reduced,Cc1c[C][C-]c(C)c1S,,Cc1c[C]Cc(C)c1S,,1,0,1,0,1.44,4.422
+83,CSc1ccccc1,,,83_reduced,CSc1c[C][C-]cc1,,CSc1c[C]Ccc1,,1,0,1,0,1.44,4.422
+84,Cc1ccc(SSc2ccc(C)cc2)cc1,,,84_reduced,Cc1c[C][C-](SSc2ccc(C)cc2)cc1,,Cc1c[C]C(SSc2ccc(C)cc2)cc1,,1,0,1,0,1.46,4.422
+85,Sc1ccccc1,,,85_reduced,Sc1c[C][C-]cc1,,Sc1c[C]Ccc1,,1,0,1,0,1.51,4.422
+86,c1ccc(SSc2ccccc2)cc1,,,86_reduced,c1c[C][C-](SSc2ccccc2)cc1,,c1c[C]C(SSc2ccccc2)cc1,,1,0,1,0,1.56,4.422
+87,O=[N+]([O-])c1ccc([S+]=[S+]c2ccc(N([O-])[O-])cc2)cc1,,,87_reduced,O=[N+]([O-])c1c[C][C-]([S+]=[S+]c2ccc(N([O-])[O-])cc2)cc1,,O=[N+]([O-])c1c[C]C([S+]=[S+]c2ccc(N([O-])[O-])cc2)cc1,,1,0,1,0,2.02,4.422
+88,S=c1[nH]c2ccccc2[nH]1,,,88_reduced,[S-][C]1[nH]c2ccccc2[nH]1,,S[C]1[nH]c2ccccc2[nH]1,,1,0,1,0,0.81,4.422
+89,COc1ccc2cc[nH]c2c1,,,89_reduced,COc1ccc2[C][C-][nH]c2c1,,COc1ccc2[C]C[nH]c2c1,,1,0,1,0,0.91,4.422
+9,C=Cc1ccc(C)c(C)c1,,,9_reduced,[C-][C]c1ccc(C)c(C)c1,,C[C]c1ccc(C)c(C)c1,,1,0,1,0,1.15,4.422
+90,Nc1nccs1,,,90_reduced,Nc1n[C][C-]s1,,Nc1n[C]Cs1,,1,0,1,0,0.95,4.422
+91,COc1cccc2[nH]ccc12,,,91_reduced,COc1cccc2[nH][C][C-]c12,,COc1cccc2[nH][C]Cc12,,1,0,1,0,0.97,4.422
+92,S=c1[nH]c2ccccc2s1,,,92_reduced,[S-][C]1[nH]c2ccccc2s1,,S[C]1[nH]c2ccccc2s1,,1,0,1,0,1.03,4.422
+93,COc1ccc2[nH]ccc2c1,,,93_reduced,COc1ccc2[nH][C][C-]c2c1,,COc1ccc2[nH][C]Cc2c1,,1,0,1,0,1.04,4.422
+94,Cn1cccc1,,,94_reduced,Cn1[C][C-]cc1,,Cn1[C]Ccc1,,1,0,1,0,1.04,4.422
+95,S=c1[nH]c2ccccc2o1,,,95_reduced,[S-][C]1[nH]c2ccccc2o1,,S[C]1[nH]c2ccccc2o1,,1,0,1,0,1.07,4.422
+96,c1c[nH]cn1,,,96_reduced,[C]1[C-][nH]cn1,,[C]1C[nH]cn1,,1,0,1,0,1.15,4.422
+97,c1ccc2[nH]ccc2c1,,,97_reduced,c1ccc2[nH][C][C-]c2c1,,c1ccc2[nH][C]Cc2c1,,1,0,1,0,1.16,4.422
+98,c1ccc2sccc2c1,,,98_reduced,c1ccc2s[C][C-]c2c1,,c1ccc2s[C]Cc2c1,,1,0,1,0,1.62,4.422
+99,OCc1ccco1,,,99_reduced,OCc1c[C][C-]o1,,OCc1c[C]Co1,,1,0,1,0,1.73,4.422
